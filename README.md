@@ -1,14 +1,6 @@
 # EdmundsSingleDimensionsWebscrape
 A quick, hacked together webscrape to grab the information from the Dimenions Data Table of Edmunds cars
 
-Enter virtual environment:
+Run the "run.sh" file. If it does not treat the file as an executable then
 
-> source edmunds-env/bin/activate
-
-Run in python3:
-
-> python3 dimensionsWebscraper.py
-
-When done, exit the virtual environment:
-
-> deactivate
+> bash run.sh
